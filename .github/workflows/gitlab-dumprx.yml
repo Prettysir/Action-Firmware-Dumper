@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       FIRMWARE_LINK:
-        description: 'Firmware Link'
+        description: 'https://mega.nz/file/U9JVFQzJ#8c9RtqF8SecWpQBm0UtkbXlt9YQS8Vi3pO65CAWtsYs'
         required: true
         default: ''
 
