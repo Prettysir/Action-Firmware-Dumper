@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       FIRMWARE_LINK:
-        description: 'https://mega.nz/file/U9JVFQzJ#8c9RtqF8SecWpQBm0UtkbXlt9YQS8Vi3pO65CAWtsYs'
+        description: 'https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-33496/F3FAEB5E-1AB2-4396-B911-B0E0CB11FFD2/iPhone14,5_18.1.1_22B91_Restore.ipsw'
         required: true
         default: ''
 
